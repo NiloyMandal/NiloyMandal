@@ -222,7 +222,11 @@ me = NiloyMondal()
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark">
+  </a>
+</p>
 
 </div>
 
