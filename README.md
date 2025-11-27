@@ -76,6 +76,47 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
+### 📊 Skill Levels
+
+<table>
+<tr>
+  <td>Python</td>
+  <td><img src="https://progress-bar.dev/85?title=Advanced&width=200&color=3776AB" alt="Python"/></td>
+</tr>
+<tr>
+  <td>Web Development</td>
+  <td><img src="https://progress-bar.dev/75?title=Proficient&width=200&color=E34F26" alt="Web Dev"/></td>
+</tr>
+<tr>
+  <td>AI/ML</td>
+  <td><img src="https://progress-bar.dev/70?title=Intermediate&width=200&color=FFD21E" alt="AI/ML"/></td>
+</tr>
+<tr>
+  <td>Data Science</td>
+  <td><img src="https://progress-bar.dev/70?title=Intermediate&width=200&color=20BEFF" alt="Data Science"/></td>
+</tr>
+<tr>
+  <td>Flask/Backend</td>
+  <td><img src="https://progress-bar.dev/65?title=Intermediate&width=200&color=000000" alt="Flask"/></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
 </div>
 
 ---
@@ -84,31 +125,17 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 
 <div align="center">
 
-### 🤖 [IIT Madras BS Chat Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+<a href="https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=IIT-Madras-BS-Chat-Bot&theme=tokyonight&hide_border=true" />
+</a>
 
-**An intelligent chatbot designed to assist IIT Madras BS students with queries and information.**
+<a href="https://github.com/NiloyMandal/my_site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=my_site&theme=tokyonight&hide_border=true" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Enabled-green?style=flat-square)
-
----
-
-### 🌐 [My Personal Website](https://github.com/NiloyMandal/my_site)
-
-**A personal portfolio website showcasing my projects and skills.**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 📊 [Vercel Analytics Endpoint](https://github.com/NiloyMandal/vercel-analytics-endpoint)
-
-**Custom analytics endpoint for tracking and analyzing web traffic.**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-Data_Collection-blue?style=flat-square)
+<a href="https://github.com/NiloyMandal/vercel-analytics-endpoint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=vercel-analytics-endpoint&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -124,6 +151,18 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
+### 📈 Contribution Metrics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiloyMandal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiloyMandal/NiloyMandal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiloyMandal/NiloyMandal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NiloyMandal/NiloyMandal/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -133,16 +172,6 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=NiloyMandal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Niloy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiloyMandal&theme=tokyo-night&hide_border=true)](https://github.com/NiloyMandal)
 
 </div>
 
@@ -171,6 +200,66 @@ class NiloyMondal:
 
 me = NiloyMondal()
 ```
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+| Achievement             | Description                                      | Year    |
+| ----------------------- | ------------------------------------------------ | ------- |
+| 🏆 IIT Madras BS Degree | Bachelor's in Data Science & Applications        | Ongoing |
+| 🤖 AI/ML Projects       | Built intelligent chatbot for student assistance | 2024    |
+| 🌐 Web Development      | Created multiple responsive web applications     | 2024    |
+| 📊 Data Analysis        | Kaggle participant and data enthusiast           | 2024    |
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-niloymandal.vercel.app/api/spotify)](https://open.spotify.com/user/31rwwwz7opznmnamfqgewhotydvu)
+
+</div>
+
+---
+
+## 📝 Latest Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+
+1. 🎯 Pushed to `main` in [NiloyMandal/NiloyMandal](https://github.com/NiloyMandal/NiloyMandal)
+2. 💪 Opened PR in [NiloyMandal/IIT-Madras-BS-Chat-Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+3. 🎉 Created new repository [NiloyMandal/my_site](https://github.com/NiloyMandal/my_site)
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+## 💻 WakaTime Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+```text
+Python       8 hrs 15 mins   ████████████░░░░░░░░░   48.2%
+JavaScript   4 hrs 20 mins   ██████░░░░░░░░░░░░░░░   25.3%
+HTML/CSS     2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   16.1%
+Markdown     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░    8.8%
+Other        0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░    1.6%
+```
+
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
