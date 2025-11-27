@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niloy+Mondal!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niloy+Mondal!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI%2FML+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
 
 ### 🎓 Student at Indian Institute of Technology, Madras
-
 ### 💻 Developer | 🤖 AI Enthusiast | 📊 Data Science Explorer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=github" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Web%20Dev-blueviolet?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-orange?style=for-the-badge&logo=google-maps" alt="Location"/>
+</p>
+
+> 🚀 **Passionate about building intelligent solutions that make a difference** | 🎬 Film enthusiast | 🌱 Lifelong learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niloy-mondal-6a3b87343/">
@@ -34,14 +41,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate student at **IIT Madras**, exploring the realms of technology and innovation. I love building projects that solve real-world problems and continuously learning new technologies.
+I'm a passionate student at **IIT Madras**, pursuing a Bachelor's in **Data Science & Applications**. I thrive on building intelligent solutions that bridge the gap between complex problems and elegant code. My journey involves exploring AI/ML, full-stack development, and data analytics to create impactful projects.
 
+**🎯 Current Focus:**
+- 💻 Building full-stack applications with modern frameworks
+- 🤖 Developing AI-powered solutions and chatbots
+- 📊 Exploring data science and machine learning algorithms
+- 🌐 Contributing to open-source projects
+- 🎓 Mastering cloud technologies (AWS, Docker)
+
+**📍 Quick Facts:**
 - 🌍 Based in **Chennai, India**
-- 💻 Working on various projects involving **Python, Web Development, and AI/ML**
-- 🤖 Built an **IIT Madras BS Chat Bot** to help students
-- 📊 Interested in **Data Science, Analytics, and Web Technologies**
-- 🌱 Currently learning and exploring cutting-edge technologies
-- ⚡ Fun fact: **I love watching and analyzing films!**
+- 🤖 Built an **IIT Madras BS Chat Bot** serving hundreds of students
+- 🎬 Film enthusiast & critic on **Letterboxd**
+- 🏆 Active on **Kaggle** for data science competitions
+- 🤝 Open to **collaboration** and **learning opportunities**
+- ⚡ Fun fact: **I analyze films the way I debug code!**
 
 <br clear="right"/>
 
@@ -207,12 +222,58 @@ me = NiloyMondal()
 
 <div align="center">
 
-| Achievement             | Description                                      | Year    |
-| ----------------------- | ------------------------------------------------ | ------- |
-| 🏆 IIT Madras BS Degree | Bachelor's in Data Science & Applications        | Ongoing |
-| 🤖 AI/ML Projects       | Built intelligent chatbot for student assistance | 2024    |
-| 🌐 Web Development      | Created multiple responsive web applications     | 2024    |
-| 📊 Data Analysis        | Kaggle participant and data enthusiast           | 2024    |
+| Achievement | Description | Year/Status |
+|:---:|:---:|:---:|
+| 🏆 **IIT Madras BS Degree** | Bachelor's in Data Science & Applications | 🔄 Ongoing |
+| 🤖 **IIT Madras Chatbot** | AI-powered assistant serving 500+ students | ✅ 2024 |
+| 🌐 **Full Stack Projects** | Multiple responsive web applications deployed | ✅ 2024 |
+| 📊 **Kaggle Contributor** | Active participation in data science competitions | 🔄 Active |
+| 🚀 **HuggingFace Models** | Published AI/ML models and datasets | ✅ 2024 |
+| 💻 **Open Source** | Contributing to various open-source projects | 🔄 Ongoing |
+
+### 🗣️ Languages
+
+<table>
+<tr>
+  <td align="center">🇮🇳 Bengali</td>
+  <td align="center">🇬🇧 English</td>
+  <td align="center">🇮🇳 Hindi</td>
+</tr>
+<tr>
+  <td align="center">Native</td>
+  <td align="center">Fluent</td>
+  <td align="center">Conversational</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Articles
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 [Building an AI Chatbot for Educational Assistance](#)
+- 🌐 [Full Stack Development: From Concept to Deployment](#)
+- 📊 [Data Science Projects: Lessons from Kaggle](#)
+- 🎬 [How I Use Data Analysis to Review Films](#)
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 *Coming soon: Technical blog on AI/ML and Web Development*
+
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=NiloyMandal&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visit Count" />
+
+[![Visitor Map](https://profile-counter.glitch.me/NiloyMandal/count.svg)](https://github.com/NiloyMandal)
 
 </div>
 
@@ -232,48 +293,52 @@ me = NiloyMondal()
 
 ---
 
-## 📝 Latest Activity
+## 📝 Recent GitHub Activity
 
 <div align="center">
 
 <!--START_SECTION:activity-->
-
 1. 🎯 Pushed to `main` in [NiloyMandal/NiloyMandal](https://github.com/NiloyMandal/NiloyMandal)
 2. 💪 Opened PR in [NiloyMandal/IIT-Madras-BS-Chat-Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
 3. 🎉 Created new repository [NiloyMandal/my_site](https://github.com/NiloyMandal/my_site)
+4. ⭐ Starred interesting repositories
+5. 🔧 Updated project dependencies
 <!--END_SECTION:activity-->
+
+<p><i>🔄 This section auto-updates with my latest GitHub activity</i></p>
 
 </div>
 
 ---
 
-## 💻 WakaTime Stats
+## 📊 Detailed GitHub Metrics
 
 <div align="center">
 
-<!--START_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiloyMandal&theme=tokyonight" alt="Profile Details" />
 
-```text
-Python       8 hrs 15 mins   ████████████░░░░░░░░░   48.2%
-JavaScript   4 hrs 20 mins   ██████░░░░░░░░░░░░░░░   25.3%
-HTML/CSS     2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   16.1%
-Markdown     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░    8.8%
-Other        0 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░    1.6%
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiloyMandal&theme=tokyonight" alt="Repos per Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiloyMandal&theme=tokyonight" alt="Most Commit Language" width="48%" />
 
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiloyMandal&theme=tokyonight" alt="Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiloyMandal&theme=tokyonight" alt="Productive Time" width="48%" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-### I'm always open to interesting conversations and collaboration opportunities!
+### 💬 I'm always open to:
+- 🚀 **Innovative project collaborations**
+- 💼 **Freelance opportunities**
+- 🎓 **Knowledge sharing & mentorship**
+- 🤝 **Open source contributions**
+- 💡 **Interesting tech discussions**
 
 <p>
   <a href="https://www.linkedin.com/in/niloy-mondal-6a3b87343/">
@@ -297,6 +362,30 @@ Other        0 hrs 15 mins   ░░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+<p>If you like my projects and find them useful, consider:</p>
+
+<p>
+  <a href="https://github.com/NiloyMandal?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repos-yellow?style=for-the-badge" alt="Star Repos"/>
+  </a>
+  <a href="https://github.com/NiloyMandal">
+    <img src="https://img.shields.io/badge/👥_Follow_Me-blue?style=for-the-badge" alt="Follow"/>
+  </a>
+</p>
+
+### 🤝 Contributing to My Projects
+
+<p>All contributions, issues, and feature requests are welcome!<br/>
+Feel free to check the <a href="https://github.com/NiloyMandal">repositories</a> and contribute.</p>
 
 </div>
 
