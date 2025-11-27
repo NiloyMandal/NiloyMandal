@@ -205,8 +205,6 @@ me = NiloyMondal()
   </a>
 </p>
 
-> 💡 **Note:** Replace `niloy@example.com` with your actual email address
-
 </div>
 
 ---
