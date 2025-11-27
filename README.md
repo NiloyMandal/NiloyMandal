@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niloy+Mondal!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-### 🎓 Student @ Indian Institute of Technology Madras
+### 🎓 Student at Indian Institute of Technology, Madras
 
 ### 💻 Developer | 🤖 AI Enthusiast | 📊 Data Science Explorer
 
@@ -200,7 +200,7 @@ me = NiloyMondal()
   <a href="https://letterboxd.com/Syph0n9/">
     <img src="https://img.shields.io/badge/Letterboxd-Follow-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/>
   </a>
-  <a href="mailto:niloy@example.com">
+  <a href="mailto:niloymandal0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
