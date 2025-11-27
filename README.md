@@ -222,7 +222,7 @@ me = NiloyMondal()
 
 <div align="center">
 
-[![Spotify](https://novatorem-niloymandal.vercel.app/api/spotify)](https://open.spotify.com/user/31rwwwz7opznmnamfqgewhotydvu)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rwwwz7opznmnamfqgewhotydvu&redirect=true)
 
 </div>
 
