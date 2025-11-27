@@ -1,20 +1,38 @@
 <div align="center">
 
-# Hi there, I'm Niloy Mondal! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niloy+Mondal!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 ### 🎓 Student @ Indian Institute of Technology Madras
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloy-mondal-6a3b87343/)
-[![GitHub followers](https://img.shields.io/github/followers/NiloyMandal?style=for-the-badge&logo=github)](https://github.com/NiloyMandal)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NiloyMondal)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/niloymandal)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/Syph0n9/)
+### 💻 Developer | 🤖 AI Enthusiast | 📊 Data Science Explorer
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niloy-mondal-6a3b87343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NiloyMandal">
+    <img src="https://img.shields.io/github/followers/NiloyMandal?style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+  <a href="https://huggingface.co/NiloyMondal">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
+  <a href="https://www.kaggle.com/niloymandal">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://letterboxd.com/Syph0n9/">
+    <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm a passionate student at **IIT Madras**, exploring the realms of technology and innovation. I love building projects that solve real-world problems and continuously learning new technologies.
 
@@ -23,6 +41,9 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 - 🤖 Built an **IIT Madras BS Chat Bot** to help students
 - 📊 Interested in **Data Science, Analytics, and Web Technologies**
 - 🌱 Currently learning and exploring cutting-edge technologies
+- ⚡ Fun fact: **I love watching and analyzing films!**
+
+<br clear="right"/>
 
 ---
 
@@ -30,24 +51,30 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-### Frameworks & Tools
+### 🚀 Frameworks & Tools
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
-### Platforms
+### 🌐 Platforms
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
 
 </div>
 
@@ -55,26 +82,35 @@ I'm a passionate student at **IIT Madras**, exploring the realms of technology a
 
 ## 📌 Featured Projects
 
+<div align="center">
+
 ### 🤖 [IIT Madras BS Chat Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
 
-A intelligent chatbot designed to assist IIT Madras BS students with queries and information.
+**An intelligent chatbot designed to assist IIT Madras BS students with queries and information.**
 
-- **Tech:** Python
-- **Features:** Natural language processing, automated responses
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Enabled-green?style=flat-square)
+
+---
 
 ### 🌐 [My Personal Website](https://github.com/NiloyMandal/my_site)
 
-A personal portfolio website showcasing my projects and skills.
+**A personal portfolio website showcasing my projects and skills.**
 
-- **Tech:** HTML, CSS, JavaScript
-- **Highlights:** Responsive design, modern UI/UX
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
 
 ### 📊 [Vercel Analytics Endpoint](https://github.com/NiloyMandal/vercel-analytics-endpoint)
 
-Custom analytics endpoint for tracking and analyzing web traffic.
+**Custom analytics endpoint for tracking and analyzing web traffic.**
 
-- **Tech:** Python
-- **Purpose:** Data collection and analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-Data_Collection-blue?style=flat-square)
+
+</div>
 
 ---
 
@@ -82,11 +118,11 @@ Custom analytics endpoint for tracking and analyzing web traffic.
 
 <div align="center">
 
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiloyMandal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiloyMandal&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -142,14 +178,34 @@ me = NiloyMondal()
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niloy-mondal-6a3b87343/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/NiloyMandal)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Follow-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/NiloyMondal)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/niloymandal)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-Follow-green?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/Syph0n9/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:niloy@example.com)
+### I'm always open to interesting conversations and collaboration opportunities!
+
+<p>
+  <a href="https://www.linkedin.com/in/niloy-mondal-6a3b87343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NiloyMandal">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/NiloyMondal">
+    <img src="https://img.shields.io/badge/HuggingFace-Follow-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.kaggle.com/niloymandal">
+    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://letterboxd.com/Syph0n9/">
+    <img src="https://img.shields.io/badge/Letterboxd-Follow-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd"/>
+  </a>
+  <a href="mailto:niloy@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+> 💡 **Note:** Replace `niloy@example.com` with your actual email address
 
 </div>
 
@@ -169,8 +225,12 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=NiloyMandal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=NiloyMandal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 😊
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 😊
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
