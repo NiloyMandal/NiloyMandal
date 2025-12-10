@@ -42,22 +42,24 @@ I'm pursuing a Bachelor's in **Data Science & Applications** at IIT Madras. I fo
 
 ## Featured Projects
 
-<div>
-<a href="https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=IIT-Madras-BS-Chat-Bot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/NiloyMandal/my_site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=my_site&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
+
+[![IIT Madras BS Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=IIT-Madras-BS-Chat-Bot&theme=tokyonight&hide_border=true)](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+
+[![My Site](https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=my_site&theme=tokyonight&hide_border=true)](https://github.com/NiloyMandal/my_site)
+
 </div>
 
 ---
 
 ## GitHub Stats
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
 </div>
 
 ---
