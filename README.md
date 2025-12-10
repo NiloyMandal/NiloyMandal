@@ -42,13 +42,14 @@ I'm pursuing a Bachelor's in **Data Science & Applications** at IIT Madras. I fo
 
 ## Featured Projects
 
-<div align="center">
+### 🤖 [IIT Madras BS Chat Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+AI-powered chatbot serving 500+ IIT Madras students with course information and academic assistance.
 
-[![IIT Madras BS Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=IIT-Madras-BS-Chat-Bot&theme=tokyonight&hide_border=true)](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+### 🌐 [Personal Portfolio](https://github.com/NiloyMandal/my_site)
+Full-stack personal website showcasing projects and technical skills.
 
-[![My Site](https://github-readme-stats.vercel.app/api/pin/?username=NiloyMandal&repo=my_site&theme=tokyonight&hide_border=true)](https://github.com/NiloyMandal/my_site)
-
-</div>
+### 📊 [Vercel Analytics Endpoint](https://github.com/NiloyMandal/vercel-analytics-endpoint)
+Custom analytics solution for tracking and visualizing web application metrics.
 
 ---
 
@@ -56,9 +57,11 @@ I'm pursuing a Bachelor's in **Data Science & Applications** at IIT Madras. I fo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiloyMandal&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
 
