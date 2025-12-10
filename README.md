@@ -43,12 +43,11 @@ I'm pursuing a Bachelor's in **Data Science & Applications** at IIT Madras. I fo
 ## Featured Projects
 
 ### 🤖 [IIT Madras BS Chat Bot](https://github.com/NiloyMandal/IIT-Madras-BS-Chat-Bot)
+
 AI-powered chatbot serving 500+ IIT Madras students with course information and academic assistance.
 
-### 🌐 [Personal Portfolio](https://github.com/NiloyMandal/my_site)
-Full-stack personal website showcasing projects and technical skills.
-
 ### 📊 [Vercel Analytics Endpoint](https://github.com/NiloyMandal/vercel-analytics-endpoint)
+
 Custom analytics solution for tracking and visualizing web application metrics.
 
 ---
