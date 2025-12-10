@@ -56,11 +56,9 @@ Custom analytics solution for tracking and visualizing web application metrics.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiloyMandal&show_icons=true&theme=dark&hide_border=true)](https://github.com/NiloyMandal)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiloyMandal&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiloyMandal&layout=compact&theme=radical&hide_border=true&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NiloyMandal&theme=dark&hide_border=true)](https://github.com/NiloyMandal)
 
 </div>
 
